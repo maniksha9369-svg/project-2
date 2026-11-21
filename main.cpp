@@ -1,10 +1,16 @@
 #include <iostream>
 using namespace std;
+//select 2 to view products
+//select 3 to add products
+//select 5 to view cart
+//select 6 to place an order
+//select 7 to view the cart
+//select 8 tp process a delivery
+//select 0 to exit
 
-// ==================================================
+
+
 // SERIAL 1: PRODUCT CLASS
-// ==================================================
-
 class Product
 {
 private:
